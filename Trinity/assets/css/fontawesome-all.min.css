@@ -509,6 +509,9 @@
 .fa-apple:before {
   content: "\f179"
 }
+.fa-user-pen:before {
+  content: "\f4ff"
+}
 
 .fa-apple-alt:before {
   content: "\f5d1"
